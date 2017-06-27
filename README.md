@@ -1,5 +1,5 @@
 # JavaScript Map
-
+there are no tests for this readme
 ## Objectives
 
 1. Implement a `map()` function from scratch
